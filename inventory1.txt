@@ -1,0 +1,40 @@
+Wireless Mouse,101,25.99,45
+Mechanical Keyboard,102,89.50,22
+Gaming Monitor,103,249.99,12
+USB-C Cable,104,12.00,88
+Laptop Stand,105,35.45,31
+Noise Cancelling Headphones,106,199.99,15
+Webcam 1080p,107,65.00,28
+External Hard Drive 1TB,108,54.99,40
+Bluetooth Speaker,109,45.00,55
+Smartphone Case,110,15.95,92
+Desk Lamp LED,111,29.99,18
+Ergonomic Chair,112,350.00,7
+Standing Desk,113,499.00,5
+Power Bank 20000mAh,114,39.99,63
+Wireless Charger,115,22.50,47
+Graphic Tablet,116,120.00,10
+Microphone Arm,117,42.00,33
+HDMI Splitter,118,18.99,75
+Laptop Sleeve,119,24.00,50
+Ethernet Cable 10ft,120,8.50,100
+Smart Watch,121,150.00,25
+Fitness Tracker,122,79.00,38
+Digital Camera,123,599.99,4
+Tripod Stand,124,32.00,19
+Ring Light,125,45.99,22
+Coffee Maker,126,85.00,14
+Electric Kettle,127,39.50,30
+Toaster 2-Slice,128,29.99,42
+Air Fryer,129,110.00,9
+Blender High-Speed,130,95.00,16
+Microwave Oven,131,145.00,6
+Slow Cooker,132,49.99,21
+Rice Cooker,133,35.00,35
+Juicer Extractor,134,75.00,12
+Non-Stick Frying Pan,135,28.50,25
+Chef Knife Set,136,120.00,8
+Cutting Board Bamboo,137,19.99,60
+Food Storage Containers,138,34.00,45
+Oven Mitts,139,12.50,55
+Water Filter Pitcher,140,26.00,72
