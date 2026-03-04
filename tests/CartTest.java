@@ -4,5 +4,6 @@ public class CartTest {
     @Test
     void applyPromoCode() {
         Cart cart = new Cart();
+        cart.initializeCart()
     }
 }
